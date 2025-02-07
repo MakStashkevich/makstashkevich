@@ -4,9 +4,7 @@ I am an enthusiast from Belarus, who makes apps for the Web, Android and iOS.
 
 I work mainly on my own projects and other people's startups.
 
-In addition, I am fond of video editing and trying to convey my thoughts and ideas to people in short rils.
-
-If you are interested in applications, you can see my current projects here: [makstashkevich.com](https://makstashkevich.com)
+If you are interested in applications, you can see my current projects here: [makstashkevich.com](https://makstashkevich.com) _(now not working, sorry...)_
 
 If you're just curious about what I do, you can find me on [Telegram](https://t.me/stashkevich), [Instagram](https://instagram.com/makstashkevich), [VKontakte](https://vk.me/makstashkevich) and [Linkedin](https://www.linkedin.com/in/mstashkevich).
 
